@@ -2,6 +2,23 @@
 
 
 ## Table of Contents
+- [Introduction](#introduction)
+- [Stereo Matching](#stereo-matching)
+- [Installation](#installation)
+- [Results](#results)
+  - [Image 1](#image-1)
+    - [SAD](#sad)
+    - [SSD](#ssd)
+  - [Image 2](#image-2)
+    - [SAD](#sad-1)
+    - [SSD](#ssd-1)
+  - [Image 3](#image-3)
+    - [SAD](#sad-2)
+    - [SSD](#ssd-2)
+- [Using Dynamic Programming](#using-dynamic-programming)
+    - [Results](#results-1)
+- [Contributers](#contributers)
+
 
 ## Introduction
 This repository contains a Jupyter notebook (`notebook.ipynb`) that demonstrates the concept of stereo matching. Stereo matching is a technique used in computer vision to extract 3D information from 2D images. It involves comparing two or more images of the same scene taken from different viewpoints, and finding "matches" between the images. These matches are points that appear in multiple images, and they can be used to calculate the depth of the scene.
@@ -110,6 +127,8 @@ Overall, dynamic programming plays a crucial role in stereo matching by providin
 
 ## Contributers
 
-1. [Yousef Kotp]()
-2. [Mohammed Farid]()
-3. [Adham Mohammed]()
+- [Yousef Kotp](https://github.com/yousefkotp)
+
+- [Adham Mohamed](https://github.com/adhammohamed1)
+
+- [Mohamed Farid](https://github.com/MohamedFarid612)
